@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/动态规划/.idea/动态规划.iml" filepath="$PROJECT_DIR$/动态规划/.idea/动态规划.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/算法.iml" filepath="$PROJECT_DIR$/.idea/算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../蓝桥杯每日一题/.idea/蓝桥杯每日一题.iml" filepath="$PROJECT_DIR$/../蓝桥杯每日一题/.idea/蓝桥杯每日一题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/贪心-分治/.idea/贪心.iml" filepath="$PROJECT_DIR$/贪心-分治/.idea/贪心.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../递归搜索/.idea/递归搜索.iml" filepath="$PROJECT_DIR$/../递归搜索/.idea/递归搜索.iml" />
+    </modules>
+  </component>
+</project>
